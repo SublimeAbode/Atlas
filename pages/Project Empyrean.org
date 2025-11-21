@@ -1,1 +1,35 @@
-* Insofar as suffering is governed by causality within range of volition, Project Empyrean seeks epistemically certain knowledge by which volition may be constrained for the indefinite minimization of stress below a threshold. In other words, eternal happiness.
+#+author: [[Shashank Rajesh]]
+
+* Insofar as [[Terms/Happiness][happiness]] is governed by causality within influence of [[Volition][volition]], Project Empyrean seeks maximally certain [[Terms/Knowledge][knowledge]] by which volition may be constrained for the indefinite minimization of [[Terms/Stress][stress]] below a threshold. 
+:PROPERTIES:
+:id: 690f5949-9f50-4efb-93f3-e67f9f8956f0
+:END:
+** In other words, answers to the question, "What should I do to be happy forever?"
+*
+* In pursuit of this goal, Project Empyrean was formed as a nonprofit[fn:1] research organization to coordinate both [[https://en.wikipedia.org/wiki/Research#Original_research][primary]] and [[https://en.wikipedia.org/wiki/Secondary_research][secondary]] research in this field, with the ultimate goal of producing [[Maps][maps]] of reality and derivative constructs by which volition may be optimally constrained.
+:PROPERTIES:
+:id: 692098b1-c027-4bfc-a7aa-193f495333ce
+:END:
+** ((691b7d77-5be9-4c6a-9a8c-a2c3aeb9e30e))
+*
+* ((691b7d77-0d28-4388-806d-70527e319d59))
+** ((691b7d77-4382-4215-a9e5-bb2b39470ea1))
+** ((691b7d77-46fe-4261-a274-08a174ea5142))
+*
+* If you are here to review our research, start by visiting [[Maps]].
+** See [[Contents]] if you ever get lost.
+** The graph view link in the right can be helpful for visual exploration.
+** Otherwise, feel free to roam around wherever the links lead you. See the Logseq [[https://docs.logseq.com/#/page/contents][docs]] to learn how to best navigate through the repo.
+*
+* If you'd like to contribute to our work, see the [[CONTRIBUTING][contribution guide]].
+** [[https://discord.com/invite/6QnmcAYtP2][Join]] the discussion on our Discord server.
+*** We may move to a [[((6920a28a-3951-4bb8-9fca-d023da4ea468))][different platform]] in the future.
+** A [[((6917e752-17a8-436a-8e62-8b4e40e32922))][forum]] is also planned.
+*
+* Footnotes
+:PROPERTIES:
+:heading: 2
+:END:
+* [fn:1] Registration still pending.
+** ((69209ac1-fe5c-4a9f-b691-014391e90acf))
+** ((69209af9-bd8b-4e3e-b9be-19377434579e))
