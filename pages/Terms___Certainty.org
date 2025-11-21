@@ -1,0 +1,25 @@
+* Certainty is a measure of how accurately [[Terms/Information]] is able to predict reality, especially pertaining to the effect of [[Volition]] on [[Terms/Happiness]].
+:PROPERTIES:
+:title: Terms/Certainty
+:END:
+* The following scheme of categorization is used:
+** Settled
+:PROPERTIES:
+:id: 6920a814-86e1-4eef-8bbe-06728e496d92
+:END:
+*** Fact
+*** Law
+*** Theory
+** Unsettled
+:PROPERTIES:
+:id: 6920a820-4e3e-45e2-a7dd-df648f8fd3b1
+:END:
+*** Model
+*** Hypothesis
+*** Conjecture
+*** Speculation
+* Notes
+:PROPERTIES:
+:heading: 2
+:END:
+** Consider adopting legal [[https://en.wikipedia.org/wiki/Burden_of_proof_(law)][burden of proof]] scheme.

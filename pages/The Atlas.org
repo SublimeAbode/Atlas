@@ -1,0 +1,13 @@
+* The Atlas serves as the centralized repository for [[Maps][maps]] and supporting research.
+:PROPERTIES:
+:id: 691b7d77-0d28-4388-806d-70527e319d59
+:END:
+* It is comprised of [[Maps]], each of which in turn are compilations of [[Markers]].
+* Provisionally implemented in [[https://logseq.com/][Logseq]].
+:PROPERTIES:
+:id: 691b7d77-4382-4215-a9e5-bb2b39470ea1
+:END:
+* All versions are hosted on [[https://github.com/Project-Empyrean/Codex][GitHub]].
+:PROPERTIES:
+:id: 691b7d77-46fe-4261-a274-08a174ea5142
+:END:

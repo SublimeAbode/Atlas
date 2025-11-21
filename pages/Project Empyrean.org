@@ -1,6 +1,6 @@
 #+author: [[Shashank Rajesh]]
 
-* Insofar as [[Terms/Happiness][happiness]] is governed by causality within influence of [[Volition][volition]], Project Empyrean seeks maximally certain [[Terms/Knowledge][knowledge]] by which volition may be constrained for the indefinite minimization of [[Terms/Stress][stress]] below a threshold. 
+* Insofar as [[Terms/Happiness][happiness]] is governed by causality within influence of [[Volition][volition]], Project Empyrean seeks maximally certain [[Terms/Information][information]] by which volition may be constrained for the indefinite minimization of [[Terms/Stress][stress]] below a threshold.
 :PROPERTIES:
 :id: 690f5949-9f50-4efb-93f3-e67f9f8956f0
 :END:
@@ -10,7 +10,7 @@
 :PROPERTIES:
 :id: 692098b1-c027-4bfc-a7aa-193f495333ce
 :END:
-** ((691b7d77-5be9-4c6a-9a8c-a2c3aeb9e30e))
+** Maps are compilations of [[Markers]] each intended to serve as decision making frameworks.
 *
 * ((691b7d77-0d28-4388-806d-70527e319d59))
 ** ((691b7d77-4382-4215-a9e5-bb2b39470ea1))

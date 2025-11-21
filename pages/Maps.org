@@ -1,0 +1,13 @@
+* Maps combine [[Terms/Information]] into cohesive decision making frameworks for constraining volition.
+* Though different maps may share [[((6920a814-86e1-4eef-8bbe-06728e496d92))][settled]] information, they will differ according to the [[((6920a820-4e3e-45e2-a7dd-df648f8fd3b1))][unsettled]] information that they use to account for knowledge gaps and uncertainty.
+** For example, different maps may align their content according to the philosophical frameworks they use to interpret information and supplement knowledge gaps:
+*** Buddhist
+*** Vedantic
+*** Materialist
+*** Naturalist
+*** Etc.
+* Below is a list of all maps currently indexed in the Atlas:
+:PROPERTIES:
+:query-properties: [:page :updated-at]
+:END:
+{{query (page-tags [[map]])}}

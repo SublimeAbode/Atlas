@@ -1,0 +1,2 @@
+* The underlying tendency of [[Terms/Thirst]] which [[Terms/Binding][binds]] to some [[Terms/Feeling]] but not others.
+* For instance, one's affinity to pleasant flavor is is stronger when one is hungry, and weaker when satiated, though the affective quality of flavor may remain relatively constant.

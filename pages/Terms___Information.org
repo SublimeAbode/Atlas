@@ -1,0 +1,2 @@
+* Data serving as predictive descriptions of a system.
+* Categorized according to [[Terms/Certainty]].
