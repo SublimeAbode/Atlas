@@ -1,0 +1,7 @@
+.page {
+  font-family: "Optima", serif;
+}
+
+.admonitionblock > * {
+  font-size: var(--ls-page-text-size);
+}
