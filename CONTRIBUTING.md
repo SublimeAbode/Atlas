@@ -61,3 +61,7 @@ The link to the page `Terms/Stress` is aliased as "stress" to have gramatically 
 ### Do Not Unecessarily Index Child Pages in the Parent
 
 Logseq automatically displays all child pages in the parent. There is no need to explicitely list them.
+
+## Things to Keep in Mind
+
+Page renaming in Logseq fails to update references in some cases. Update them manually with a serach and replace tool such as the one built into VSCode.
