@@ -1,7 +1,9 @@
 #!/bin/bash
 
+# <ai-gen>
 ROO_RULES_FILE=".roo/rules/rules.md"
 FILES_TO_APPEND=(
+  "docs/ai-rules.md"
   "CONTRIBUTING.md"
   # Add other files here as needed, e.g., "another_rule_file.md"
 )
@@ -23,3 +25,4 @@ for file_path in "${FILES_TO_APPEND[@]}"; do
 done
 
 echo "AI rules generation complete. Content written to $ROO_RULES_FILE"
+# </ai-gen>

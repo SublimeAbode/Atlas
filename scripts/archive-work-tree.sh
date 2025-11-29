@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+# <ai-gen>
 # Create a zip archive of the current Git work tree, including untracked files (excluding ignored files).
 # Usage: ./archive-work-tree.sh output.zip
 
@@ -24,3 +25,4 @@ git ls-files -z --cached --others --exclude-standard \
     | xargs -0 zip "$OUTPUT_ZIP"
 
 echo "Archive created successfully: $OUTPUT_ZIP"
+# </ai-gen>
