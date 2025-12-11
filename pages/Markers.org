@@ -1,0 +1,13 @@
+* Atomic pieces of condensed [[Terms/Information]] useful for constraining volition for certain happiness in the future.
+* Compiled together in [[Maps]].
+* The rest of the [[The Atlas]] supports the Markers with supporting information.
+* Each marker will:
+** Be quantified in terms of epistemic [[Terms/Certainty]] .
+** Contain information pertinent to the effects of volition relating to stress.
+** May contain explicit guidelines for behavior
+** Relate to volition and its effects on stress.
+* Though atomic, there can be additional networking with the rest of the Atlas.
+* {{query (or (page-tags [[marker]]) (namespace [[markers]]))}}
+:PROPERTIES:
+:query-properties: [:page :tags :certainty :updated-at]
+:END:

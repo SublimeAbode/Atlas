@@ -1,0 +1,22 @@
+#+author: [[Authors/Shashank Rajesh]]
+
+* In [[https://suttacentral.net/mn137/en/sujato?lang=en][MN 137]], the Buddha defines 18 mental preoccupations with feeling:
+#+BEGIN_QUOTE
+'The eighteen mental preoccupations should be understood.’
+That’s what I said, but why did I say it? 
+Seeing a sight with the eye, one is preoccupied with a sight that’s a basis for happiness or sadness or equanimity.
+Hearing a sound with the ear … 
+Smelling an odor with the nose … 
+Tasting a flavor with the tongue … 
+Feeling a touch with the body … 
+Becoming conscious of an idea with the mind, one is preoccupied with an idea that’s a basis for happiness or sadness or equanimity. So there are six preoccupations with *happiness*, six preoccupations with *sadness*, and six preoccupations with *equanimity*. (Sujato)
+#+END_QUOTE
+* Table with emojis representing each kind of preoccupation (needs correction/refinement)
+:PROPERTIES:
+:author: [[Authors/AI]] 
+:END:
+
+|           | 👀 Sight | 👂 Sound | 👃 Odor | 👅 Flavor | 🖐️ Touch | 🧠 Idea |
+| 😊 Pleasant | 🖼️ | 🎶 | 🌸 | 🍬 | 🫂 | 💡 |
+| 😞 Unpleasant | 👻 | 💥 | 🤢 | 🌶️ | 💉 | 💢 |
+| 🙃 Neutral | 🌫️ | 🔇 | 🪵 | 💧 | ☁️ | 📝 |

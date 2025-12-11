@@ -1,0 +1,38 @@
+#+author: [[Authors/Shashank Rajesh]]
+
+* A show is any narrative work presented in audiovisual form, such as movies and TV shows.
+* Analysis
+:PROPERTIES:
+:author: [[Authors/AI]] Gemini 2.5 Flash Preview 09-2025
+:heading: 1
+:END:
+** Mechanism of Enjoyment
+:PROPERTIES:
+:heading: 2
+:END:
+Shows provide intense, novel, and diverse [[Sensation][sensations]] (sight, sound, and derivative thoughts/perceptions) that are predominantly [[Feeling][pleasant]]. This rapid influx of agreeable stimuli serves as a highly effective form of [[Sensual Enjoyment][sensual enjoyment]], specifically designed to captivate and satisfy the mind's [[Terms/Thirst][thirst]].
+*** Escape from Displeasure
+:PROPERTIES:
+:heading: 3
+:END:
+Shows are often utilized as an [[Dhamma/Escaping Pain with Pleasure][escape from displeasure]]. When faced with physical discomfort, boredom, or mental stress, the intense, pleasurable stimuli from the show overrides the awareness of the unpleasant sensation, providing temporary relief. The relief is rooted in the acquisition of pleasant feeling overriding the displeasure, but is ultimately subject to the drawbacks of [[Sensual Enjoyment][sensual enjoyment]].
+** Binding and Stress
+:PROPERTIES:
+:heading: 2
+:END:
+Since watching shows is a form of [[Sensual Enjoyment][sensual enjoyment]], it necessarily involves [[Terms/Binding][binding]] to the pleasure experienced.
+*** The Hedonic Treadmill
+:PROPERTIES:
+:heading: 3
+:END:
+To maintain the feeling of pleasure, the show must continuously provide novel, engaging content. The moment the content becomes predictable or unengaging, [[Terms/Thirst][thirst]] for change arises, leading to [[Terms/Stress][stress]]. This illustrates the "hedonic treadmill" where constant novelty is required.
+*** Opportunity Cost
+:PROPERTIES:
+:heading: 3
+:END:
+The enjoyment derived from watching shows often comes at a high opportunity cost, as noted in [[Authors/Shashank Rajesh/Prospectus]]: "it is never worth the opportunity cost of research and practice for the betterment of lives beyond." In this regard, it frequently aligns with the [[Four Kinds of Practice][Four Kinds of Practice]] that is "pleasant now but results in future pain" (Ignorant).
+**** Skillful Use
+:PROPERTIES:
+:heading: 4
+:END:
+However, watching shows is not inherently detrimental. If the mind is bound by [[Terms/Thirst][thirst]] for entertainment, moderate, controlled viewing can be an exercise of [[Shashank Rajesh/Determination][determination]] and [[Shashank Rajesh/Skillful Thirst][skillful thirst]], preventing burnout while maintaining overall progress toward long-term goals.

@@ -1,0 +1,20 @@
+* All states of unhappiness involve a degree of [[Terms/Binding]] to displeasure. It is not possible to be unhappy if either of these factors are missing. The implicit goal of all existence is the escape from displeasure, an endless pursuit of finding comfort in the world.
+* Furthermore, it also seems that binding is necessarily unpleasant, resulting in stress even when it occurs with pleasure.
+* Therefore, a complete absence of stress is only possible with the absence of binding.
+* Happiness is still possible with binding though, so long as it remains below a threshold.
+* Stress is modeled as the product of the magnitude of binding and displeasure.
+* The goal is to constrain volition such that [[Four Kinds of Practice][happiness is ensured in the future]].
+** It should be noted that binding is itself a formation affecting causality. Volition has one influence, and the formations that it leads to can have their own influence.
+* One way of constraining volition is with knowledge.
+* Knowledge can live in the mind, but since the human mind is quite bound by the brain, it is more reliably encoded physically through writing so that it may outlive the mind in this physical realm.
+* If, at the time of death knowledge in the mind is lost, then there is the possibility of retrieval from the physical encoding.
+* [[Markers]]
+* [[The Mechanics of Stress]]
+* [[Glossary]]
+* For more information on the Codex, see [[The Atlas]]
+*
+*
+*
+* Happiness is stress below a threshold.
+* Stress is binding to displeasure.
+* So two control points: binding and displeasure.

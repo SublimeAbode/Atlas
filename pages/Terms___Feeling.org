@@ -1,0 +1,5 @@
+#+author: [[Authors/Shashank Rajesh]]
+
+* The affective quality of [[Terms/Sensation]].
+* [[Pleasure][Pleasant]], [[Displeasure][unpleasant]] , or [[Neutralness][neutral]] .
+* Linked to [[Terms/Perception]].

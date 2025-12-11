@@ -1,0 +1,3 @@
+* Data serving as predictive descriptions of a system.
+* Structured into [[Markers]].
+* Categorized according to [[Terms/Certainty]].

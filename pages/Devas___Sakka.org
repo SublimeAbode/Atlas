@@ -1,0 +1,5 @@
+#+author: [[Authors/Shashank Rajesh]]
+#+alias: sakka, inda
+#+type: [[Devas/Types/Tavatimsa]]
+
+*

@@ -1,0 +1,4 @@
+* {{query (namespace [[authors]])}}
+:PROPERTIES:
+:query-properties: [:page :updated-at]
+:END:

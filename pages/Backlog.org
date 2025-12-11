@@ -1,0 +1,61 @@
+* TODO Create a forum
+:PROPERTIES:
+:id: 6917e752-17a8-436a-8e62-8b4e40e32922
+:END:
+** Discourse looks good
+* TODO Link key pages in [[Contributing]] to the live website to ensure proper viewing
+* TODO Search and replace "Codex" to "Atlas"
+* TODO Add aliases to all page links used in sentences
+* TODO Setup NotebookLM or similar to operate as a decision making engine based on [[Maps]]
+* TODO Set up contributor bots that automatically add relevant discussion and information on every commit
+** Look into how Grok replies on X work
+* TODO Consider switching to markdown for easier collaboration
+* TODO Form an unincorporated nonprofit
+:PROPERTIES:
+:id: 69209ac1-fe5c-4a9f-b691-014391e90acf
+:END:
+** Minimum member requirement?
+* TODO Register for 501(c)(3) status
+:PROPERTIES:
+:id: 69209af9-bd8b-4e3e-b9be-19377434579e
+:END:
+* TODO Evaluate Discord alternatives
+:PROPERTIES:
+:id: 6920a28a-3951-4bb8-9fca-d023da4ea468
+:END:
+** Rocket.chat
+* TODO Create an open suggestions board, or some other type of open access "think tank" where people can freely share their thoughts and ideas without having to sign up or submit PRs
+* TODO Fix dangling references
+** Mainly from page renaming that failed to update references
+* TODO Study Ven. Brahm's translations
+** Many of his translations of key terms seem quite brilliant and more accurate than other's I've come across.
+*** Sankhara -> Will
+*** Vedana -> Experience
+*** Tanha -> Thirst
+*** Pancakkhandha/pancupadanakkhandha? -> Components of existence
+*** Vinnana -> Consciousness-/es/
+*** Atta -> Permanent essence
+* TODO Ven. Brahm said some people have seen ghosts and devas
+** Look into this, he may have second hand accounts.
+** He also [[{{video https://www.youtube.com/live/5TZfyq1XTd0?si=5yTnHwTsssvE1o0h&t=3530}}][mentions]] meeting a monk in Thailand? who he verified to have the divine ear, able to hear conversations over 12km away.
+*** Seek few seconds behind timestamp.
+** Ven. [[{{video https://www.youtube.com/live/5TZfyq1XTd0?si=wNj4wlogduUEvIPR&t=3639}}][Sudhamma]]?
+*** Said to be the real deal
+*** Surviving being submerged in a flood while meditating
+*** Seen by a princess emanating rays of light into a meditator
+* TODO Consciousnesses of the five sensations without mind consciousness possible?
+** According to Ven. Brahm, probably yes.
+** Corresponds to theory of subconscious/unconscious
+* TODO Investigate cases of meditation induced suspended animation
+** Ven. Brahm mentioned one [[https://www.youtube.com/live/_9fga9-6vFM?si=AwEuhB85ydgEOax1&t=1329][case]].
+** Jaggi Vasudev's supposed previous reincarnation
+** Medical cases of "ressurection" after medically verified death
+* TODO Create a "Philology IDE"
+* TODO Create a "Knowledge/Research IDE"
+* TODO [#A] Enforce neutrality
+** Project Empyrean needs to be absolutely neutral in view
+** No a posteriori assertions, only incontestable statements about hypothetical concepts based on information.
+** Users can gauge certainty themselves based upon available information. Our job is simply to make the information clear and comprehensible.
+** In this way we can avoid all conflicts of view within the organization and much more readily accept contributions of a wide diversity without concern for misrepresentation
+** TODO AI arbitration
+*** All PRs should be validated with a well tuned LLM to enforce this ideal

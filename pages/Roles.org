@@ -1,0 +1,8 @@
+* [[Founder]]
+:PROPERTIES:
+:id: 690f84ac-99b2-4581-aa13-f5ad71f43639
+:END:
+* [[Contributor]]
+:PROPERTIES:
+:id: 690f84b1-881c-4db5-8af1-982d66a3829a
+:END:

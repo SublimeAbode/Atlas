@@ -1,0 +1,26 @@
+* From [[https://suttacentral.net/mn137/en/sujato][MN 137]]
+* "Relying on this, give up that."
+* {{renderer :mermaid_69346f52-7aba-4e07-98bd-fddd340211ea, 3}}
+** ```mermaid
+graph TD
+  rh[Renunciate happiness]  
+  rs[Renunciate sadness]    
+  re[Renunciate equanimity] 
+  dh[Domestic happiness] 
+  ds[Domestic sadness]   
+  de[Domestic equanimity]
+  dive[Diversified equanimity]
+  ue[Unified equanimity]
+  nd[Non-determination]
+
+  rh -- 1 --> dh
+  rs -- 2 --> ds
+  re -- 3 --> de
+  rh -- 4 --> rs
+  re -- 5 --> rh
+  re --- dive
+  ue -- 6 --> dive
+  nd -- 7 --> ue
+  
+  dh -.- ds -.- de -.- rs -.- rh -.- dive -.- ue
+```

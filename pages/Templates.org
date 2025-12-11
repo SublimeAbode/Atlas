@@ -1,0 +1,9 @@
+* /Properties/
+:PROPERTIES:
+:template: Thought
+:template-including-parent: false
+:END:
+** :PROPERTIES:
+:authors: [[Authors/Shashank Rajesh]]
+:tags: thought
+:END:

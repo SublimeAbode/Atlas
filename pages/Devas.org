@@ -1,0 +1,124 @@
+* Devas in early Buddhist cosmology
+* Taxonomy
+:PROPERTIES:
+:heading: 3
+:author: [[Authors/AI]] Grok Expert 11/29/25
+:END:
+** Kāmaloka (Sensual Realm)
+*** Bhumma (Earthly/Terrestrial Devas)
+*** Rukkha (Tree bound)
+*** Akasattha (Air bound)
+*** Cātummahārājika (Realm of the Four Great Kings)
+*** Tāvatiṃsa (Realm of the Thirty-Three Gods)
+*** Yāma (Realm of the Yāma Gods)
+*** Tusita (Realm of the Contented Gods)
+*** Nimmānarati (Realm of Gods Who Delight in Their Own Creations)
+*** Paranimmitavasavatti (Realm of Gods Who Control Others' Creations)
+** Rūpa-loka (Form Realm)
+*** First Jhāna Planes
+**** Brahmapārisajja (Assembly of Brahmā)
+**** Brahmapurohita (Ministers of Brahmā)
+**** Mahābrahmā (Great Brahmā)
+*** Second Jhāna Planes
+**** Parittābha (Limited Radiance)
+**** Appamāṇābha (Infinite Radiance)
+**** Ābhassara (Streaming Radiance)
+*** Third Jhāna Planes
+**** Parittasubha (Limited Glory)
+**** Appamāṇasubha (Infinite Glory)
+**** Subhakiṇha (Universal Glory)
+*** Fourth Jhāna Planes
+**** Vehapphala (Great Fruit)
+**** Asaññasatta (Non-Perceptive Beings)
+**** Suddhāvāsa (Pure Abodes)
+***** Aviha (Untroubled)
+***** Atappa (Unheated)
+***** Sudassa (Clearly Visible)
+***** Sudassī (Clear-Visioned)
+***** Akaniṭṭha (Peerless)
+** Arūpa-loka (Formless Realm)
+*** Ākāsānañcāyatana (Sphere of Infinite Space)
+*** Viññāṇañcāyatana (Sphere of Infinite Consciousness)
+*** Ākiñcaññāyatana (Sphere of Nothingness)
+*** Nevasaññānāsaññāyatana (Sphere of Neither Perception nor Non-Perception)
+* Prosopography
+:PROPERTIES:
+:heading: 3
+:author: [[Authors/AI]] Grok Expert 11/29/25
+:END:
+** [[Devas/Sakka]]
+*** DN 21 (Sakkapanha Sutta)
+*** MN 37 (Culatanhakhaya Sutta)
+*** SN 11 (Sakka Samyutta)
+*** DN 16 (Mahaparinibbana Sutta)
+** Brahma Sahampati
+*** MN 26 (Ariyapariyesana Sutta)
+*** DN 16 (Mahaparinibbana Sutta)
+*** SN 6.1 (Ayacana Sutta)
+*** MN 147 (Rahulovada Sutta)
+** Maha Brahma
+*** DN 11 (Kevaddha Sutta)
+*** DN 20 (Mahasamaya Sutta)
+** Baka Brahma
+*** MN 49 (Brahmanimantanika Sutta)
+*** SN 6.4 (Bakabrahma Sutta)
+** Brahma Sanankumara
+*** DN 18 (Janavasabha Sutta)
+*** MN 53 (Sekha Sutta)
+*** DN 20 (Mahasamaya Sutta)
+** Subrahma
+*** SN 2.17 (Subrahma Sutta)
+*** DN 20 (Mahasamaya Sutta)
+** Kamada
+*** SN 2.6 (Kamada Sutta)
+** Kokanada
+*** SN 1.30 (Kokanada Sutta)
+** Mara
+*** MN 49 (Brahmanimantanika Sutta)
+*** SN 4 (Mara Samyutta)
+*** MN 26 (Ariyapariyesana Sutta)
+*** SN 5.1 (Alavika Sutta)
+** Metteyya
+*** DN 26 (Cakkavatti Sutta)
+** Vessavana
+*** DN 20 (Mahasamaya Sutta)
+*** DN 32 (Atanatiya Sutta)
+*** SN 10.8 (Vessavana Sutta)
+** Dhatarattha
+*** DN 20 (Mahasamaya Sutta)
+*** DN 32 (Atanatiya Sutta)
+** Virulhaka
+*** DN 20 (Mahasamaya Sutta)
+*** DN 32 (Atanatiya Sutta)
+** Virupakkha
+*** DN 20 (Mahasamaya Sutta)
+*** DN 32 (Atanatiya Sutta)
+** Pancasikha
+*** DN 21 (Sakkapanha Sutta)
+** Harita Brahma
+*** DN 20 (Mahasamaya Sutta)
+** Paramatta Brahma
+*** DN 20 (Mahasamaya Sutta)
+** Tissa
+*** DN 20 (Mahasamaya Sutta)
+** Kassapa Devaputta
+*** SN 2.1 (Pathamakassapa Sutta)
+*** SN 2.2 (Dutiyakassapa Sutta)
+** Magha
+*** SN 2.3 (Magha Sutta)
+** Magadha
+*** SN 2.4 (Magadha Sutta)
+** Damali
+*** SN 2.5 (Damali Sutta)
+** Pancalacanda
+*** SN 2.7 (Pancalacanda Sutta)
+** Tayana
+*** SN 2.8 (Tayana Sutta)
+** Candima
+*** SN 2.9 (Candima Sutta)
+** Suriya
+*** SN 2.10 (Suriya Sutta)
+** Hatthaka
+*** AN 3.125 (Hatthaka Sutta)
+** Ghatikara
+*** MN 81 (Ghatikara Sutta)

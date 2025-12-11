@@ -1,0 +1,5 @@
+#+certainty: Fact
+
+* There is no evidence for immortality.
+* There is, however an endless supply of evidence for death.
+* Even if biological immortality was attained, the body would be nearly guaranteed to perish by artificial means through environmental damage.

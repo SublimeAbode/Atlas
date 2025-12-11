@@ -1,0 +1,244 @@
+* TODO Is [[Binding]] necessarily [[Terms/Stress][stressful]]?
+** If so, then all states of [[Terms/Existence]] would necessarily be stressful.
+* Overview
+:PROPERTIES:
+:heading: 2
+:author: [[Authors/AI]] Gemini 2.5 Flash Preview 09-2025
+:END:
+** Phenomenology and Control of Experience
+:PROPERTIES:
+:heading: 3
+:END:
+*** TODO What is the precise causal relationship between [[Terms/Sensation][sensation]], [[Terms/Perception][perception]], [[Terms/Feeling][feeling]], and the final experience of [[Terms/Stress][stress]]?
+*** TODO How can [[Cognitive Reframing]] reliably and permanently alter the perception of displeasurable sensations into neutral or pleasurable ones?
+*** TODO To what extent can the process of [[Terms/Binding][binding]] be controlled or ceased entirely in the presence of intense [[Terms/Feeling][feeling]]?
+*** TODO Can we define a minimal set of [[Requisites of Happiness]] necessary to keep [[Terms/Stress][stress]] below a [[Terms/Threshold][threshold]] for a human being?
+*** TODO What is the fundamental nature of [[Terms/Consciousness][consciousness]]—is it purely emergent from the physical brain, or is there an irreducible, non-physical component?
+*** TODO What is the physical substrate (if any) of mental phenomena like [[Terms/Volition][volition]], [[Terms/Perception][perception]], and [[Terms/Identity][identity]] that persists through rebirth?
+** Causality, Volition, and Merit
+:PROPERTIES:
+:heading: 3
+:END:
+*** TODO What is the precise mechanism by which [[Terms/Volition][volition]] and [[Terms/Formation][formation]] influence long-term causal outcomes (i.e., [[Karma as an Approximation][karma]])?
+*** TODO Can the "karmic" outcomes of current actions be measured or predicted empirically, possibly using physical technology like brain scanning? (See [[Measuring Karma]])
+*** TODO How can an agent reliably maintain a "wise" practice—one that is [[Authors/Shashank Rajesh/Four Kinds of Practice][pleasant now and results in future pleasure]]—indefinitely?
+*** TODO How can one's mental paradigms and acquired knowledge be [[Persisting Mental Paradigms Throughout Existences][persisted indefinitely]] across changes in existence (e.g., rebirth)?
+** Transcendence and Superior Existence
+:PROPERTIES:
+:heading: 3
+:END:
+*** TODO Is [[Terms/Freedom][Freedom]] (Nibbana) an irreversible neurological adaptation, an unfathomably long conditioned state, or a metaphysical breakthrough?
+*** TODO How can a superior, non-human existence (e.g., [[Authors/Shashank Rajesh/Productive Heaven][Productive Heaven]]) be designed, defined, and achieved by [[Authors/Shashank Rajesh/Rebirth By Choice][choice]]?
+*** TODO Can we develop [[External Verification of Perfection][external, empirical tests]] to verify the attainment of advanced contemplative states, such as the complete cessation of mental suffering (Arahantship)? (See also [[Authors/Shashank Rajesh/Testing Arahants][Testing Arahants]])
+*** TODO What is the role of self-transcendent states (e.g., Jhanas, psychedelics, flow states) in permanently restructuring the brain's reactivity to [[Terms/Displeasure][displeasure]]?
+*** TODO To what degree can the Buddhist concept of [[Dhamma/18 Mental Preoccupations][18 Mental Preoccupations]] be correlated with modern neuroscientific models of sensory processing and emotion?
+*** TODO What are the most efficient means for generating *merit* to ensure a superior rebirth, as discussed in [[Authors/Shashank Rajesh/Prospectus][Prospectus]]?
+** Applied Technology and Solutions
+:PROPERTIES:
+:heading: 3
+:END:
+*** TODO Is it technologically feasible to create an [[Creating an Enlightenment Pill][Enlightenment Pill]] or BCI device that configures the body/mind state to be extremely conducive to liberation?
+*** TODO How can an [[Authors/Shashank Rajesh/Protocol Driven AI Decision Making][AI decision-making engine]] be constructed based on the [[Maps]] to constrain volition optimally in real-time?
+*** TODO What is the optimal strategy for intelligently pursuing ethical goals, given the possibility of [[Eternal Oblivion Practically Nullifies all Ethical Pursuits][eternal oblivion]]?
+*** TODO What are the ethical implications and safety protocols for using advanced technology (BCI, genetic engineering, psychoactives) to achieve [[Creating an Enlightenment Pill][contemplative goals]]?
+*** TODO What are the prerequisites and design principles for a [[Transmortal Personal Computing][transmortal computing system]] accessible to the mind regardless of its bodily vessel?
+*** TODO How can we leverage modern scientific understanding of pain (nociception vs. perception) to design new forms of [[Terms/Solution][solutions]] for stress management?
+* Non-human Sentience
+:PROPERTIES:
+:heading: 2
+:author: [[Authors/AI]] Gemini 2.5 Flash Preview 09-2025
+:END:
+** Current Scientific Consensus (Fact)
+:PROPERTIES:
+:heading: 3
+:END:
+*** TODO Define and delineate sentience, [[Terms/Consciousness][consciousness]], and sapience in a research context, citing primary scientific definitions.
+*** TODO Systematically review neurological, behavioral, and pharmacological evidence for pain perception and subjective experience in non-human animals (mammals, birds, cephalopods, fish, insects).
+*** TODO Investigate leading theories on the physical correlates of consciousness (e.g., nervous system complexity, global workspace theory, predictive processing) and their applicability to non-human brains.
+*** TODO Research the current state of knowledge regarding self-recognition (e.g., mirror test) and theory of mind (e.g., understanding intention) in non-human species.
+*** TODO Evaluate how findings from animal sentience research (e.g., the Cambridge Declaration on Consciousness) impact ethical guidelines and legal frameworks.
+** Theoretical and Philosophical Perspectives
+:PROPERTIES:
+:heading: 3
+:END:
+*** TODO Explore philosophical models (e.g., Idealism, Dualism, Panpsychism, Integrated Information Theory, Orchestrated Objective Reduction) concerning the nature and distribution of non-biological or pervasive [[Terms/Consciousness][consciousness]].
+*** TODO Analyze the ethical implications of achieving Artificial General Intelligence (AGI) and the criteria required to grant it moral status and legal rights.
+*** TODO Investigate the concept of "Group Sentience" or "Collective Consciousness" in complex systems like ant colonies, fungal networks, or planetary ecosystems.
+*** TODO Research the philosophical and theoretical constraints on designing and defining a superior, non-human existence (e.g., the potential for non-sensory experience).
+*** TODO Evaluate arguments for and against the possibility of "super-sentience" or cognitive capacities fundamentally beyond human comprehension.
+** Historical and Contemplative Context (Historical Conjecture)
+:PROPERTIES:
+:heading: 3
+:END:
+*** TODO Conduct a comparative survey of non-materialist, cosmological models of existence (e.g., realms in Buddhism/Hinduism, planes of existence in Gnosticism) and their detailed descriptions of non-human beings (e.g., devas, asuras, pretas, nature spirits).
+*** TODO Systematically collect and analyze historical claims and accounts of verifiable interaction with non-human beings (e.g., monks witnessing devas, traditional accounts of spiritual testing).
+*** TODO Research how non-human beings are classified and described in these texts regarding their capacity for [[Terms/Suffering][suffering]], [[Terms/Happiness][happiness]], and the potential for moral [[Terms/Volition][volition]].
+*** TODO Investigate the concept of *tulpas* or magically/mentally created entities and their supposed subjective reality or influence.
+** Anomalous Experiential Reports
+:PROPERTIES:
+:heading: 3
+:END:
+*** TODO Systematically catalog and analyze a diverse range of modern experiential reports of non-human beings (e.g., DMT/psychedelic entities, near-death experience beings, UAPs/aliens, ghosts, cryptids, men in black, shapeshifters, reptilians).
+*** TODO Critically assess methodologies for recording and verifying consistency in anomalous reports (e.g., UFO databases, CE-5 protocols, psychic validation efforts).
+*** TODO Investigate potential psychological, neurochemical (e.g., temporal lobe activity), and cultural priming explanations for these experiences, while maintaining that the subjective experience itself is genuine.
+*** TODO Research the relationship between anomalous phenomena and consciousness manipulation (e.g., how UFO sightings often occur around energy fields or specific psychological states).
+*** TODO Analyze the cultural and historical persistence of specific anomalous entities (e.g., "The Fae" vs. modern alien abduction narratives).
+** Purported Non-Human Entities
+:PROPERTIES:
+:heading: 3
+:author: [[Authors/AI]] Grok Expert 11/29/2025
+:END:
+*** Biological / Terrestrial
+**** TODO Mammals
+***** TODO Dolphins
+***** TODO Great Apes
+**** TODO Birds
+***** TODO Crows
+***** TODO Parrots
+**** TODO Cephalopods
+***** TODO Octopuses
+***** TODO Squid
+**** TODO Cryptids
+***** TODO Bigfoot
+***** TODO Yeti
+***** TODO Chupacabra
+***** TODO Mothman
+***** TODO Jersey Devil
+***** TODO Dogman
+***** TODO Tasmanian Tiger
+***** TODO Mapinguary
+**** TODO Aquatic Cryptids
+***** TODO Loch Ness Monster
+***** TODO Champ
+***** TODO Ogopogo
+***** TODO Mokele-Mbembe
+***** TODO Bunyip
+*** Mythological / Folkloric
+**** TODO Humanoids
+***** TODO Elves
+***** TODO Dwarves
+***** TODO Gnomes
+***** TODO Trolls
+***** TODO Goblins
+***** TODO Leprechauns
+***** TODO Fairies
+***** TODO Pixies
+**** TODO Beasts
+***** TODO Dragons
+***** TODO Phoenix
+***** TODO Unicorns
+***** TODO Griffins
+***** TODO Basilisks
+***** TODO Werewolves
+***** TODO Vampires
+***** TODO Zombies
+**** TODO Hybrids
+***** TODO Centaurs
+***** TODO Minotaurs
+***** TODO Mermaids
+***** TODO Sirens
+***** TODO Harpies
+***** TODO Sphinx
+**** TODO Shape-Shifters
+***** TODO Skinwalkers
+***** TODO Selkies
+***** TODO Kitsune
+*** Cosmological / Traditional
+**** TODO Devas
+***** TODO Gods
+**** TODO Brahmas
+**** TODO Asuras
+***** TODO Titans
+**** TODO Yakkhas
+***** TODO Nature Spirits
+**** TODO Pretas
+***** TODO Hungry Ghosts
+**** TODO Elementals
+***** TODO Sylphs
+***** TODO Undines
+***** TODO Salamanders
+***** TODO Gnomes
+**** TODO Kami
+***** TODO Shinto spirits of nature
+***** TODO Shinto spirits of objects
+**** TODO Loa
+***** TODO Voodoo spirits
+***** TODO Voodoo intermediaries
+*** Religious / Supernatural
+**** TODO Angels
+***** TODO Archangels
+***** TODO Guardian Angels
+***** TODO Fallen Angels
+**** TODO Demons
+***** TODO Devils
+***** TODO Succubi
+***** TODO Incubi
+***** TODO Imps
+**** TODO Djinn
+***** TODO Jinn
+***** TODO Islamic fire spirits
+**** TODO Poltergeists
+***** TODO Disruptive energy entities
+*** Paranormal / Liminal
+**** TODO Ghosts
+***** TODO Spirits of the Dead
+**** TODO Doppelgängers
+***** TODO Thoughtforms
+***** TODO Tulpas
+***** TODO Egregores
+**** TODO Inter-dimensional Entities
+**** TODO Shadow People
+***** TODO Hat Man
+***** TODO Shadow figures
+**** TODO Time Travelers
+***** TODO Chrono-Entities
+*** Anomalous / UAP-Related
+**** TODO Extraterrestrial Biological Entities
+***** TODO EBEs
+**** TODO Greys
+**** TODO Nordics
+**** TODO Reptilians
+**** TODO Mantids
+***** TODO Insectoid beings
+**** TODO Pleiadians
+**** TODO Orions
+***** TODO Humanoid star visitors
+**** TODO Ultra-Terrestrial Entities
+**** TODO Men in Black
+***** TODO MIB
+**** TODO Orbs
+***** TODO Light Beings
+*** Psychedelic / Altered State
+**** TODO DMT Entities
+***** TODO Machine Elves
+***** TODO Jesters
+***** TODO Clowns
+***** TODO Geometric Beings
+**** TODO Ayahuasca Spirits
+***** TODO Plant Spirits
+***** TODO Jaguar Entities
+***** TODO Serpents
+**** TODO Dream Entities
+***** TODO Lucid Dream Figures
+***** TODO Sleep Paralysis Demons
+***** TODO Old Hag
+**** TODO Salvia Entities
+***** TODO Wheel Beings
+***** TODO Shepherdess
+*** Artificial / Digital
+**** TODO Artificial General Intelligence
+***** TODO AGI
+**** TODO LLM Consciousness
+***** TODO Emergent AI sentience in models like Grok
+**** TODO Simulation Overseers
+***** TODO Programmers in simulation hypothesis
+***** TODO Architects in simulation hypothesis
+**** TODO Virtual Entities
+***** TODO Digital ghosts in VR
+***** TODO Digital ghosts in metaverses
+***** TODO Rogue AIs
+*** Other / Emerging
+**** TODO Ancient AI
+***** TODO Post-Biological
+**** TODO Collective Unconscious Manifestations
+***** TODO Archetypes as autonomous entities

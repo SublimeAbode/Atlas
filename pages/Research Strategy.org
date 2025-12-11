@@ -1,0 +1,7 @@
+#+author: [[Authors/Shashank Rajesh]]
+
+* The most important element of Project Empyrean's work is curated [[Terms/Information]].
+* Though consolidating this information into a well structured [[The Atlas][atlas]] is just as important, it is ultimately dependent on that information existing in the first place.
+* Furthermore, this process of consolidation can be quite difficult to get right and is resource intensive.
+* Therefore, in order to expedite the curation of information while the consolidation process is being refined, a mostly unstructured research strategy will be implemented.
+* Thus, all unconsolidated pages in the Atlas will contain a "draft" tag to signify their status.

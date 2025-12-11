@@ -1,0 +1,2 @@
+* The complexity of decision making can be automated by AI deriving upon the constraints set in the protocol.
+* Derivative guidelines can be generated in a way similar to the [[https://www.dhammatalks.org/vinaya/Mv/MvVI.html#pts40_1][great standards]].

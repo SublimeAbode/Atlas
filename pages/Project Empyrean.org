@@ -1,1 +1,32 @@
-* Insofar as suffering is governed by causality within range of volition, Project Empyrean seeks epistemically certain knowledge by which volition may be constrained for the indefinite minimization of stress below a threshold. In other words, eternal happiness.
+#+author: [[Authors/Shashank Rajesh]]
+
+* Insofar as [[Terms/Happiness][happiness]] is governed by [[https://en.wikipedia.org/wiki/Causality][causality]] within influence of [[Terms/Volition][volition]], Project Empyrean seeks maximally [[Certainty][certain]] [[Terms/Information][information]] and derivative [[Terms/Solution][solutions]] by which volition may be constrained for the indefinite minimization of [[Terms/Stress][stress]] below a [[Terms/Threshold][threshold]]. In other words, "What should I do to be happy forever, and how can I make sure it actually happens?"
+:PROPERTIES:
+:id: 690f5949-9f50-4efb-93f3-e67f9f8956f0
+:END:
+** #+BEGIN_NOTE
+Context influences the meaning of terms. Many of these will be explained below, but be sure to visit the highlighted terms later to better understand their definitions within the scope of this project.
+#+END_NOTE
+* To better coordinate these efforts, Project Empyrean was formed as a nonprofit[fn:1] research organization currently focusing on [[https://en.wikipedia.org/wiki/Research#Original_research][primary]] and [[https://en.wikipedia.org/wiki/Secondary_research][secondary]] research for the consolidation of information into maps of reality by which volition may be constrained.
+*
+* ((6924952c-12d4-4281-8f9a-65011b3e0536))
+* ((6924968f-e901-454f-a51e-209945e628df))
+*
+* If you are here to review our research, start by visiting *[[Maps]]* to explore what has been compiled so far.
+** See [[Contents]] if you ever get lost.
+** The graph view link in the right can be helpful for visual exploration.
+** Otherwise, feel free to roam around wherever the links lead you. See the Logseq [[https://docs.logseq.com/#/page/contents][docs]] to learn how to best navigate through the repo.
+*
+* If you'd like to contribute to our work, see the [[CONTRIBUTING][contribution guide]].
+** [[https://discord.com/invite/6QnmcAYtP2][Join]] the discussion on our Discord server.
+*** We may move to a [[((6920a28a-3951-4bb8-9fca-d023da4ea468))][different platform]] in the future.
+** A [[((6917e752-17a8-436a-8e62-8b4e40e32922))][forum]] is also planned.
+*
+* {{embed [[Contact]]}}
+* Footnotes
+:PROPERTIES:
+:heading: 2
+:END:
+** [fn:1] Registration still pending.
+*** ((69209ac1-fe5c-4a9f-b691-014391e90acf))
+*** ((69209af9-bd8b-4e3e-b9be-19377434579e))

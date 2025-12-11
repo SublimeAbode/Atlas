@@ -1,0 +1,25 @@
+* Unhappiness is the opposite of happiness, but what is happiness?
+* We can better understand it through acute negation
+* *This is unhappiness, this is suffering:*
+** TODO An comprehensive documentation of all forms of unhappiness visible to others
+** TODO Statistics on the prevalence of overwhelmingly static and unpleasant factors for unhappiness
+:PROPERTIES:
+:collapsed: true
+:END:
+*** Ugliness
+*** Disease
+*** Disfigurement
+*** War
+** Sensitive content. Discretion advised.
+:PROPERTIES:
+:background-color: red
+:collapsed: true
+:END:
+*** {{video https://www.youtube.com/watch?v=w66jVCF57O4}}
+*** {{video https://www.youtube.com/watch?v=WEtc2hsNKaQ}}
+**** #+BEGIN_QUOTE
+@MyNameHere101
+2 years ago Translate to English
+For those that can't watch whole thing: 
+Production team took the pair for treatment. She was diagnosed with brain atrophy and given an anti-psychotic. After improvement the daughter was able to explain that *she was hallucinating women yelling at her, and she was crying because she was frustrated and scared.* She's made nearly a full recovery, but still hasn't been able to walk unassisted again. 
+#+END_QUOTE

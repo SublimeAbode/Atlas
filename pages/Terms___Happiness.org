@@ -1,0 +1,7 @@
+* [[Terms/Stress][Stress]] remaining below a [[Terms/Threshold][threshold]]
+* The typical understanding of happiness involves positive emotions. However, even such things as total unconsciousness fit this definition of happiness, for they are devoid of stress.
+** TODO Layman's Argument
+*** Perhaps most people would see total unconsciousness in a negative light, but they don't understand that everything "bad" about that only exists as mental constructions before and after the unconsciousness. The "experience" itself is technically only good. After all, if a person ceased to exist, they would no longer be there to experience any form of unhappiness whatsoever.
+* [[A Mechanistic Model of Stress]] models
+* Happiness is a state of being which necessarily involves some [[Terms/Identity]]. If there were no "one" to experience it, there would be no happiness.
+* So when identity cases, so too happiness and unhappiness.

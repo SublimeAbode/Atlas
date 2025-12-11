@@ -1,0 +1,18 @@
+// </ai-gen>
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Generate AI Rules",
+      "type": "shell",
+      "command": "./scripts/generate-rules.sh",
+      "group": "build",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    }
+  ]
+}
+// </ai-gen>

@@ -1,0 +1,3 @@
+#+certainty: Fact
+
+* So long as the body is healthy and awake, [[Terms/Consciousness]] can be nominally assumed to take place primarily through physical [[Terms/Sensation]].

@@ -1,0 +1,712 @@
+* Thoughts
+:PROPERTIES:
+:heading: 2
+:END:
+** Unorganized
+:PROPERTIES:
+:heading: 2
+:collapsed: true
+:END:
+*** Much of the domain of Project Empyrean overlaps and concurs with the teachings of the Buddha. For this reason among others, references to the early Buddhist texts will be made where relevant.
+:PROPERTIES:
+:heading: 2
+:END:
+*** Thinking 1
+:PROPERTIES:
+:heading: 2
+:END:
+
+*What do I ought to do?*
+You ought to do what is consistent with the root of that question.
+
+*What is the root of that question?*
+Aversion to feeling bad. In this case, aversion to the uncertainty of not knowing what you ought to do.
+
+*What actions are consistent with that root?*
+Actions that lead to not feeling bad.
+
+*Why?*
+Because the aversion to feeling bad underlies entire range of what you ought to do.
+
+*Some actions lead to not feeling bad in the short term, others in the long term. Some lead to both feeling bad and not feeling bad. Which should I choose?*
+I'm not sure. Choose whichever you prefer so long as it does not lead solely to feeling bad.
+
+*What can I do to not feel bad?*
+Do what leads to the reduction of the acquisition of displeasure.
+
+*How is acquisition of displeasure avoided?*
+The factors leading to it are reduced, either directly, or indirectly via the presence of factors leading to the acquisition of pleasure or neutralness.
+# In a given unit of experience, any of the following:
+# - Thirst is reduced
+# - Consciousness is reduced
+# - Pleasure or neutralness is acquired instead
+
+/For example: when listening to music while hungry, both sensations are possible. But if I focus on the music, I feel predominantly good with the primary consciousness of the sensation of music, and if I focus on the hunger, I feel predominantly bad likewise. Thus the consciousness and acquisition of one feeling overrides the other./
+
+*What are those factors?*
+Displeasure and aversion are its primary factors.
+Sensation and perception are the primary factors of displeasure.
+Input into the sensory streams via body or mind and consciousness are the primary factors of sensation.
+
+#+begin_src mermaid
+---
+config:
+  layout: elk
+---
+graph LR
+    
+    %% Displeasure --> Distress
+    %% Aversion --> Distress
+
+    Contact --> Displeasure
+    Perception --> Displeasure
+
+    %% Consciousness --> Contact
+
+    %% Stimuli --> Contact
+    
+    subgraph Contact
+        %% direction LR
+        Stimuli -.- Senses -.- Consciousness
+    end
+
+    subgraph Distress
+        %% direction LR
+        Displeasure -.- Aversion
+    end
+    
+    subgraph Delight
+        %% direction LR
+        Pleasure -.- Attraction
+    end
+
+    subgraph Acquisition
+        Delight
+        Distress
+    end
+    
+    Contact --> Pleasure
+    Perception --> Pleasure
+
+    Delight --> FeelsGoodMan["Feeling Good"]
+    
+
+    subgraph Person
+        Mind -.- Body
+    end
+
+    Person --> Perception
+
+    Person --> Contact
+
+    Distress --> FeelsBadMan["Feeling Bad"]
+
+    %% Mental --- Stimuli   
+    %% Physical --- Stimuli   
+    
+    %% Mental --- Senses   
+    %% Physical --- Senses   
+
+    %% Senses --> Contact
+
+    style FeelsBadMan fill:lightpink
+    style FeelsGoodMan fill:lightgreen
+    
+#+end_src
+
+# How is thirst reduced?
+# Reduce the factors which underlie thisrt.
+
+# How is pleasure acquired?
+# Increase the factors which underlie the acquisition of pleasure. Namely, the pleasant perception of sensation and the thirst for it overriding the thirst for apparent displeasure.
+*** Thinking 2
+:PROPERTIES:
+:heading: 2
+:END:
+The goal is to minimize distress. Distress is the acquisition of displeasure. Acquisition is reflexively distressing due to it being displeasurable. Thus, the only complete escape from distress is in the absence of acquisition.
+
+Acquisition of pleasure is distressing from both sides, while acquisition of non-displeasure is distressing only from the inside. Pleasure and neutrality can only reduce internal distress, and it is not guaranteed. (A pleasing sensation is not always guaranteed to aleviate one's thirst due to factors such as novelty)
+
+Acquisition is an action, and actions may influence "feeling" in the future. Thus, the minimisation of distress comes about through the optimisation of action.
+*** Thinking 3
+:PROPERTIES:
+:heading: 2
+:END:
+"What do I ought to do?" is only relevant to one for whom it matters. For it to matter to him he must be afflicted with a desire, passion, preference, inclination, longing, or tendency, of which comprises attraction to the pleasant and aversion to the unpleasant. The taking up of the unpleasant leads to the distress of negative emotions rooted in aversion. The taking up of the pleasant leads to the joy of positive emotions rooted in attraction. All which one of such ever does is the attraction to the pleasant and aversion to the unpleasant. Even in cases of seeming attraction to the unpleasant, it is in reality the attraction to a superimposed pleasure.
+
+"What do I ought to do?" is a pleasant feeling which one clings to, perhaps in escape of the displeasure of "I may do what I ought not to." Nonetheless, what one ought to do is a vocalisation of one's preference, the satisfaction of which is the only rational ought. But however a person may satisfy, he may still experience the visissitudes of life. And so thinking one would satisfy his desires in the present, he suffers displeasure in the future. An intelligent one ought not to do that which leads to his long term affliction, for it is intrinsically counterproductive. Acting in his long term wellfare is what one ought to do.
+
+Now, we see four components to this wellfare: craving, perception, feeling, and uptake. A desirous person would perceive a pleasure and take it up for his enjoyment fulfilling his desire. But he may also perceive a displeasure but not take it up by subduing his craving. The latter in its complete form is the superior of the two, the more sastisfying of the two.
+
+For the overcoming of unwholesome tendencies, one must perceive the drawbacks of what is normally seen as pleasant, upon which it becomes unpleasant by its superimposition of drawbacks. Failing to see the drawbacks would lead to his failure so long as he is still besot with craving.
+
+The highest liberation would be gained by superimposing the drawbacks of all alternatievs and thus relinquishing them out of aversion, and by taking up the superimposed pleasure of the benefits of doing so, the benefits of that kind of attainment, and upon the atttainment of it the intrinsic drive itself would cease; one abandons the raft he made to cross over to the further shore, gaining freedom from the even raft itself let alone the river.
+** To Files
+:PROPERTIES:
+:collapsed: true
+:END:
+*** Measuring Karma
+:PROPERTIES:
+:heading: 3
+:END:
+If the brain is sensitive to the mind, then one’s karma may be measurable to some degree via the brain, which is accessible to physical technology.
+*** Creating an Enlightenment Pill
+:PROPERTIES:
+:heading: 2
+:collapsed: true
+:END:
+**** Entheogens are extremely powerful. What if we could craft a drug or a device that would configure the body to a state that is extremely condusive to the purification or liberation of the mind?
+*** Keeping Knowledge Alive in Action
+:PROPERTIES:
+:heading: 2
+:collapsed: true
+:END:
+**** It’s not just about the preservation of knowledge, but its survival through appropriate activation. Whenever the appropriate occasion arises for the application of that knowledge in pursuit of the goal, it should happen, and every instance it does not is a failure.
+*** Stress as a Dynamic Causal Process
+:PROPERTIES:
+:heading: 2
+:END:
+*** Reverse Engineering Experience Through Psychoactive Experimentation
+:PROPERTIES:
+:heading: 2
+:END:
+Experience the whole spectrum of doses to identify the precise experiential effects.
+*** A Hypothetical Productive Heaven
+:PROPERTIES:
+:heading: 2
+:collapsed: true
+:END:
+A continuous maintenance of stress below a threshold–utter happiness in a mundane sense. Pleasure delivered continuously to the senses, with boredom offset through automatic or intentionally sought novelty. Whatever desires may arise are swiftly satisfied so that the stress of desire never raises beyond a threshold. And all acts of enjoyment are in some way productive to the maintainence and increase of that sort of existence. Perhaps by relishing in the making of merit. Even better by delighting towards the permanent end of all stress.
+**** Bodily Feelings
+A total absence of bodily pain. There is a continuous flow of baseline bodily pleasure, so much so that it is easy to dwell simply with that pleasure for long periods of time. The environment is such that it is never sensed as too hot nor too cold. The constraint of gravity is overcome so that the body is always light and easily maneuvered.
+**** Sights
+Everything is aesthetically pleasing. There is nothing there that would be seen as ugly or repulsive.
+**** Sounds
+There is a tactile satisfaction to every mundane interaction. No jarring or unpleasant sounds would be found. There is abundant music that is dynamically composed to each moment, constant novelty. No speech that is disagreeable.
+**** Smells
+A baseline pleasantness to all environmental odors. No bad smells.
+**** Tastes
+Good tastes. Everything tastes good or neutral.
+**** Thoughts
+No bad thoughts, the mind dwells in a good place.
+*** Experience Constrained Rebirth
+:PROPERTIES:
+:heading: 2
+:END:
+What if our rebirth destination was primarily driven by our experiences from the current life? In that case, humans would most likely be reborn as humans until they somehow evolve into a more sophisticated model of experience, upon which a new realm or species is generated to satisfy that model. It would make sense in this case that the content of one’s dreams would need to be of a heavenly quality if one wishes rebirth in such a realm.
+*** Happiness
+:PROPERTIES:
+:heading: 2
+:END:
+It seems to me that wallowing in pleasure is happiness, and writhing in pain is sadness. Pleasure itself is not happiness, nor is pain sadness. The involvement therein is what qualifies the emotion. To be free of both states is indeed the highest of all bliss.
+*** Graduated Volition and its Triggers
+:PROPERTIES:
+:heading: 2
+:END:
+It seems that there are levels of intentionality to volition ranging from subconscious to overtly deliberate, and the more deliberate an action is, the stronger its resulting emotional impact. It seems that intentionality inherently implies some amount of craving and induviduality.
+
+It is observed that the experience of pleasure and pain of various kinds can trigger heightened forms of volition.
+*** The Intrinsic Futility of Human Existence
+:PROPERTIES:
+:heading: 2
+:END:
+What pleasure does a rich man enjoy? For he lives no more than a handful of decades wherein great enjoyment is possible. Both the rich and the poor are subject to aging, illness, and death. One may live a happy life, another a miserable one; neither of them count when they are suffering on their death beds, uncertain of their fate beyond. Be it a happy life or a sad one, the intelligent person who lives dedicated to the afterlife is superior to the negligent. The man who sacrifices this life for one that is superior in the next is the greater of these two individuals.
+
+Aside from the fact that no earthly pleasure is all that amazing or long lasting, regardless, it is never worth the opportunity cost of research and practice for the betterment of lives beyond. If pleasures and enjoyment comes along the way, great. Otherwise, they simply aren't worth it, and one would gain quite a huge amount by relinquishing the pursuit of them.
+*** Fun Forever
+:PROPERTIES:
+:heading: 2
+:END:
+Imagine doing something you love, but forever. Or as long as you want. For instance, binge your favorite show without any real fatigue, and without losing any significant amount of time by way of time dilation or absurdly long lifespans.
+
+Indulge into any novel niche or hobby to its utter completion.
+
+Binge video games with friends
+
+I don't like choosing. I enjoy unpredictable novelty with others prese
+*** Eternal Oblivion Practically Nullifies all Ethical Pursuits
+:PROPERTIES:
+:heading: 2
+:END:
+Existence beyond death is primary to all ethical pursuits, for if the end of experience was guaranteed, whatever suffering endured beforehand would be intrinsically meaningless for the end of suffering was always predestined. Therefore it is almost manditory to consider the possibility of an afterlife for any serious discussion on ethics.
+*** Motivational Activities
+:PROPERTIES:
+:heading: 2
+:END:
+- Hunger-consumption
+- Thirst-hydration
+- Discomfort-adjustment
+- Cold-warming
+- Hot-cooling
+- Headache-resting
+- Fatigue-resting
+- Pain-escaping
+- Injury-treating
+*** Requisites of Happiness
+:PROPERTIES:
+:heading: 2
+:END:
+A human being might typically require the following things in order to remain happy beyond a threshold:
+
+# A comprehensive list of factors in list form
+
+
+-   *Basic Needs:* Food, water, shelter, sleep, safety, and healthcare.
+-   *Social Connection:* Meaningful relationships, love, belonging, community.
+-   *Purpose and Meaning:* A sense of contribution, goals, values, spirituality, or passion.
+-   *Autonomy and Control:* Freedom to make choices, self-direction.
+-   *Growth and Learning:* Opportunities for development, new experiences, skill acquisition.
+-   *Physical and Mental Well-being:* Exercise, healthy habits, emotional regulation, stress management.
+-   *Recognition and Esteem:* Appreciation, respect, self-worth.
+-   *Creativity and Expression:* Outlets for self-expression, art, hobbies.
+-   *Leisure and Enjoyment:* Fun, relaxation, play.
+*** Self-defense
+:PROPERTIES:
+:heading: 2
+:END:
+Though our actions may be generally aligned for our long-term benefit, we may still face hurdles along the way which could set us off course. Thus, a minimally viable form of self defence may need to be cultivated to ensure both stability and minimisation of the unwanted consequences of violence.
+*** External Verification of Perfection
+:PROPERTIES:
+:heading: 2
+:END:
+If I were to become perfected, there would be no doubt within me in regards to it. However, it may be that my confidence was misplaced, and thus, I would need to make an agreement to undergo external scrutiny upon such an attainment in case I become devoid of doubt that would otherwise push me in that direction. I suppose a perfected one would not break such a promise.
+
+Some ideas:
+- Administer various psychedelics to induce bad trips
+- Datura
+- Cause varying degrees of physical injury, perhaps even self surgery or amputation.
+*** The Fundemental Problem of Existence
+:PROPERTIES:
+:heading: 2
+:collapsed: true
+:END:
+The generation of mental effluents rooted in craving is the fundamental problem of all subjective experience, its manifestations around which all goal seeking activities are centered. Its cessation is the ultimate solution and the highest bliss.
+**** Good Enough
+Though its cessation may be the supreme, its suppression below a threshold would perhaps in its experience be seen as plenty enough as no form of significant objection would arise, as that level would have been suppressed and no tendencies existing at that level would occur.
+*** Felt and Generated Feeling
+:PROPERTIES:
+:heading: 2
+:END:
+Three kinds of feeling: pleasant, painful, and neutral, may be felt by the mind. They are of two kinds depending on their source. #TODO
+*** Measuring Karma
+:PROPERTIES:
+:heading: 2
+:END:
+If the brain is sensitive to the mind, then one’s karma may be measurable to some degree via the brain, which is accessible to physical technology.
+*** Building a Vehicle
+:PROPERTIES:
+:heading: 2
+:END:
+*** Finding Superhumans
+:PROPERTIES:
+:heading: 2
+:END:
+Those who hold supernormal states and abilities, capable to seeing that which we and our instruments would be blind to. The psychics, mediums, s
+*** Creating an Enlightenment Pill
+:PROPERTIES:
+:heading: 2
+:END:
+Entheogens are extremely powerful. What if we could craft a drug or a device that would configure the body to a state that is extremely condusive to the purification or liberation of the mind?
+*** Keeping Knowledge Alive in Action
+:PROPERTIES:
+:heading: 2
+:END:
+It’s not just about the preservation of knowledge, but its survival through appropriate activation. Whenever the appropriate occasion arises for the application of that knowledge in pursuit of the goal, it should happen, and every instance it does not is a failure.
+*** Stress as a Dynamic Causal Process
+:PROPERTIES:
+:heading: 2
+:END:
+*** Reverse Engineering Experience Through Psychoactive Experimentation
+:PROPERTIES:
+:heading: 2
+:END:
+Experience the whole spectrum of doses to identify the precise experiential effects.
+*** A Hypothetical Productive Heaven
+:PROPERTIES:
+:heading: 2
+:collapsed: true
+:END:
+A continuous maintenance of stress below a threshold–utter happiness in a mundane sense. Pleasure delivered continuously to the senses, with boredom offset through automatic or intentionally sought novelty. Whatever desires may arise are swiftly satisfied so that the stress of desire never raises beyond a threshold. And all acts of enjoyment are in some way productive to the maintainence and increase of that sort of existence. Perhaps by relishing in the making of merit. Even better by delighting towards the permanent end of all stress.
+**** Bodily Feelings
+A total absence of bodily pain. There is a continuous flow of baseline bodily pleasure, so much so that it is easy to dwell simply with that pleasure for long periods of time. The environment is such that it is never sensed as too hot nor too cold. The constraint of gravity is overcome so that the body is always light and easily maneuvered.
+**** Sights
+Everything is aesthetically pleasing. There is nothing there that would be seen as ugly or repulsive.
+**** Sounds
+There is a tactile satisfaction to every mundane interaction. No jarring or unpleasant sounds would be found. There is abundant music that is dynamically composed to each moment, constant novelty. No speech that is disagreeable.
+**** Smells
+A baseline pleasantness to all environmental odors. No bad smells.
+**** Tastes
+Good tastes. Everything tastes good or neutral.
+**** Thoughts
+No bad thoughts, the mind dwells in a good place.
+*** Experience Constrained Rebirth
+:PROPERTIES:
+:heading: 2
+:END:
+What if our rebirth destination was primarily driven by our experiences from the current life? In that case, humans would most likely be reborn as humans until they somehow evolve into a more sophisticated model of experience, upon which a new realm or species is generated to satisfy that model. It would make sense in this case that the content of one’s dreams would need to be of a heavenly quality if one wishes rebirth in such a realm.
+*** Happiness
+:PROPERTIES:
+:heading: 2
+:END:
+It seems to me that wallowing in pleasure is happiness, and writhing in pain is sadness. Pleasure itself is not happiness, nor is pain sadness. The involvement therein is what qualifies the emotion. To be free of both states is indeed the highest of all bliss.
+*** Graduated Volition and its Triggers
+:PROPERTIES:
+:heading: 2
+:END:
+It seems that there are levels of intentionality to volition ranging from subconscious to overtly deliberate, and the more deliberate an action is, the stronger its resulting emotional impact. It seems that intentionality inherently implies some amount of craving and induviduality.
+
+It is observed that the experience of pleasure and pain of various kinds can trigger heightened forms of volition.
+*** The Intrinsic Futility of Human Existence
+:PROPERTIES:
+:heading: 2
+:END:
+What pleasure does a rich man enjoy? For he lives no more than a handful of decades wherein great enjoyment is possible. Both the rich and the poor are subject to aging, illness, and death. One may live a happy life, another a miserable one; neither of them count when they are suffering on their death beds, uncertain of their fate beyond. Be it a happy life or a sad one, the intelligent person who lives dedicated to the afterlife is superior to the negligent. The man who sacrifices this life for one that is superior in the next is the greater of these two individuals.
+
+Aside from the fact that no earthly pleasure is all that amazing or long lasting, regardless, it is never worth the opportunity cost of research and practice for the betterment of lives beyond. If pleasures and enjoyment comes along the way, great. Otherwise, they simply aren't worth it, and one would gain quite a huge amount by relinquishing the pursuit of them.
+*** Fun Forever
+:PROPERTIES:
+:heading: 2
+:END:
+Imagine doing something you love, but forever. Or as long as you want. For instance, binge your favorite show without any real fatigue, and without losing any significant amount of time by way of time dilation or absurdly long lifespans.
+
+Indulge into any novel niche or hobby to its utter completion.
+
+Binge video games with friends
+
+I don't like choosing. I enjoy unpredictable novelty with others prese
+*** Eternal Oblivion Practically Nullifies all Ethical Pursuits
+:PROPERTIES:
+:heading: 2
+:END:
+Existence beyond death is primary to all ethical pursuits, for if the end of experience was guaranteed, whatever suffering endured beforehand would be intrinsically meaningless for the end of suffering was always predestined. Therefore it is almost manditory to consider the possibility of an afterlife for any serious discussion on ethics.
+*** Motivational Activities
+:PROPERTIES:
+:heading: 2
+:END:
+- Hunger-consumption
+- Thirst-hydration
+- Discomfort-adjustment
+- Cold-warming
+- Hot-cooling
+- Headache-resting
+- Fatigue-resting
+- Pain-escaping
+- Injury-treating
+*** Requisites of Happiness
+:PROPERTIES:
+:heading: 2
+:END:
+A human being might typically require the following things in order to remain happy beyond a threshold:
+
+# A comprehensive list of factors in list form
+
+
+-   *Basic Needs:* Food, water, shelter, sleep, safety, and healthcare.
+-   *Social Connection:* Meaningful relationships, love, belonging, community.
+-   *Purpose and Meaning:* A sense of contribution, goals, values, spirituality, or passion.
+-   *Autonomy and Control:* Freedom to make choices, self-direction.
+-   *Growth and Learning:* Opportunities for development, new experiences, skill acquisition.
+-   *Physical and Mental Well-being:* Exercise, healthy habits, emotional regulation, stress management.
+-   *Recognition and Esteem:* Appreciation, respect, self-worth.
+-   *Creativity and Expression:* Outlets for self-expression, art, hobbies.
+-   *Leisure and Enjoyment:* Fun, relaxation, play.
+*** Self-defense
+:PROPERTIES:
+:heading: 2
+:END:
+Though our actions may be generally aligned for our long-term benefit, we may still face hurdles along the way which could set us off course. Thus, a minimally viable form of self defence may need to be cultivated to ensure both stability and minimisation of the unwanted consequences of violence.
+*** External Verification of Perfection
+:PROPERTIES:
+:heading: 2
+:END:
+If I were to become perfected, there would be no doubt within me in regards to it. However, it may be that my confidence was misplaced, and thus, I would need to make an agreement to undergo external scrutiny upon such an attainment in case I become devoid of doubt that would otherwise push me in that direction. I suppose a perfected one would not break such a promise.
+
+Some ideas:
+- Administer various psychedelics to induce bad trips
+- Datura
+- Cause varying degrees of physical injury, perhaps even self surgery or amputation.
+*** The Fundemental Problem of Existence
+:PROPERTIES:
+:heading: 2
+:collapsed: true
+:END:
+The generation of mental effluents rooted in craving is the fundamental problem of all subjective experience, its manifestations around which all goal seeking activities are centered. Its cessation is the ultimate solution and the highest bliss.
+**** Good Enough
+Though its cessation may be the supreme, its suppression below a threshold would perhaps in its experience be seen as plenty enough as no form of significant objection would arise, as that level would have been suppressed and no tendencies existing at that level would occur.
+*** Felt and Generated Feeling
+:PROPERTIES:
+:heading: 2
+:END:
+Three kinds of feeling: pleasant, painful, and neutral, may be felt by the mind. They are of two kinds depending on their source. #TODO
+*** Acceptable and Unacceptable Emotions
+:PROPERTIES:
+:heading: 2
+:collapsed: true
+:END:
+**** Acceptable
+:PROPERTIES:
+:heading: 2
+:END:
+- Joy
+- Excitement
+- Contentment
+- Amusement
+- Pride
+- Love
+- Gratitude
+- Hope
+- Awe
+- Relief
+- Enthusiasm
+- Serenity
+- Optimism
+- Interest
+- Peace
+- Delight
+- Surprise
+- Curiosity
+- Calmness
+**** Unacceptable
+:PROPERTIES:
+:heading: 2
+:END:
+- Sadness
+- Anger
+- Fear
+- Disgust
+- Shame
+- Guilt
+- Envy
+- Jealousy
+- Frustration
+- Anxiety
+- Despair
+- Disappointment
+- Loneliness
+- Boredom
+- Hurt
+- Worry
+- Stress
+- Embarrassment
+- Resentment
+- Revulsion
+- Contempt
+- Horror
+- Terror
+- Dread
+- Panic
+- Regret
+- Melancholy
+- Grief
+- Irritation
+- Annoyance
+- Humiliation
+- Distress
+- Confusion
+- Boredom
+- Apathy
+- Shock
+*** A Heirarchy of Being
+:PROPERTIES:
+:heading: 2
+:collapsed: true
+:END:
+The supreme state of being would be comprised of total detachment, unstruck by any phenomenon. But for those states of being involved in craving, the lower the involvement the better. For craving is a fundamental flaw--its potential symptoms growing more acute the greater it becomes. Therefore, abiding in detachment is the highest ideal, devolving into lower states only if absolutely necessary to maintain the objective.
+**** The Dependence of the Hungry
+:PROPERTIES:
+:heading: 2
+:END:
+Lack is the destablizing factor for those besot by craving. Though they may operate in stability when equippied with their requisites, they are bound to fall when separated from that which they depend on.
+**** Strategies for Overcoming Inferiority
+:PROPERTIES:
+:heading: 2
+:END:
+So long as there is an attraction to superiority and an aversion to inferiority, one being identified with the inferior would be a cause for distress. Thus, though bound by the inferior, one should identify with a superior ideal. And when this act is true and successful, one is not struck by the abuse of degenerate beings. And though beings may exist even superior to that chosen ideal, those beings could not possess such evil qualities that would cause any harm. Benevolent in character, they are deserving of admiration and respect.
+*** The Role of Faith
+:PROPERTIES:
+:heading: 2
+:END:
+I see two extremes: skeptical and dogmatic. Having tread close to both ends, I find that the confluence of the two to be the most condusive for one intent on the truth. For truth cannot be ascertained by one who does not know, and for that man he depends on the words of others. Depending on this to a fault would make him fully dependent on the reality of those words, and rejecting them entirely would leave him in ignorance. So I travel along the middle, armed with a skeptical mind yet driven forward by faith, ready to accept whatever I may come to know along the way, free of bias.
+
+This is how I might claim to remain well unbiased despite my qualified faith the Buddha. I will always remain dedicated to the truth, however that truth may contradict my faith.
+*** My Experience of the First Jhana and its Relation to Nibbana
+:PROPERTIES:
+:heading: 2
+:END:
+Sitting with back upright and mind at the fore, I withdraw my attention from the details of sense and thought experience and begin to relinquish the five hindrances of sensual desire, ill will, sloth and torpor, restlessness and remorse, and doubt. With this relinquishment is the arising of a certain bodily pleasure and excitement of the mind, perhaps pIti and sukha. I then repeatedly place the mind and keep it connected on the mental quality of limitless goodwill, radiating it in all directions with focus at the source. When the mind is sufficiently stable on this for a handful of seconds, the it becomes highly immersed and pIti and sukha burgeons. This sharp rise in pleasure then typicall disturbs the mind out of immersion and the pIti and sukha falls back down, though at times I am able to maintain my focus and remain within that pleasure for a few more seconds before secumbing to it. After ending my meditation after reaching this samAdhi there are lasting after effects which remain for 10-15 minutes, during which the mind is quite equanimous to sensory experience, remaining quite free of distress even with the experience of displeasurable things which would typically bring distress.
+
+I am quite certain that this is the attainment of the first Jhana to a limited extent, and having repeatedly known the existence of such a state of mind, seemingly directly resultant of my own volition, I am beyond doubt about the reality of the other 3 Jhanas and will strive to attain them too. I know directly that states of immense happiness beyond sensuality do indeed exist, and it is quite apparent to me that the mastery of even this first level would clearly be supreme to any state of sensual happiness I ever recall having experienced.
+
+The Buddha knew these states of mind as well as their limitations, but he claims an even greater attainment that is not subject to fall away. His knowledge and lasting testimony of the deathless state may be refuted by some as a sort of prolonged state of Jhana, but I find it unlikely as he clearly demonstrates knowledge of the discrimination between these two states, having clear mastery over both. Thus, even a skeptic would have to classify nibbAna as categorically different from states of Jhana; is it a metaphysical breakthrough, an unfathomably long conditioned state misapprehended as permanant, or merely an irreversible neurological adaptation? These are the grounds on which one might speculate, but it is clear to me that nibbAna is not Jhana in any form I know of, and is an argument that I have ruled out.
+*** Heaven
+:PROPERTIES:
+:heading: 2
+:END:
+I will describe a theoretical heaven in terms of five sensations with thoughts as a sixth. With a being's experience centered around their body, equipped with sense faculties.
+
+Pleasure in every channel of sensation, thoroughly devoid of displeasure. Joined with pleasure, one is continuously satisfied, their thirst in a state of quenching. Devoid of displeasure subject to aversion, they are naturally well free of it too. Thus, with all yearning attenuated below a threshold, how could any negative emotional states arise? Occupied with the five pleasures, how could displeasurable thoughts naturally arise?
+*** Emotions and Their End
+:PROPERTIES:
+:heading: 2
+:END:
+Negative emotions are characterized by acute thirst and resultant mental displeasure. Positive emotions are characterized by mild thirst, typically accompanied by mental pleasure. But completely devoid of thirst, no emotion would arise. Positive emotions are when the mind has what it wants, and relishes that experience. But the end of relishing would be even better, simply due to the absence of thirst.
+*** Stress
+:PROPERTIES:
+:heading: 2
+:END:
+It seems that all forms of mental stress are dependent on a sense of identity, and with its cessation so too all forms of stress. Emotions may still exist, but one would be deteched from them, for they would not be anywhere at all. This necessarily implies the impossibility of a subset of emotions like anger and relishing, for both of those are dependent on an induvidual approval or disapproval which no longer exists.
+*** The Origin of Emotions
+:PROPERTIES:
+:heading: 2
+:END:
+Externally, one may feel 5 kinds of threefold sensory feeling. When one feels external displeasure with the underlying tendency of aversion towards displeasure, they also feel a mental displeasure in the form of emotion. Likewise when a person feels pleasure with the underlying tendancy of desrire for pleasure, they also feel a mental pleasure in the form of emotion. Thus we have positive and negative emotions. Now, a person may also feel positive emotions while experiencing external displeasure, and vice versa, and with permutations for netural feelings too. Thus, we have 18 different kinds of feeling.
+*** The goal
+:PROPERTIES:
+:heading: 2
+:END:
+If an agent has a goal, then there is a preference.
+*** Graduated Intelligent Optimisation of a Dynamic System of Behavior
+:PROPERTIES:
+:heading: 2
+:END:
+When an analytical intelligence emerges from the mind, it analyzes its memory of experience and identifies patterns which underlie it. Still having preference for pleasure and aversion to pain, it seeks to optimize the system such that there is a minimisation of such pain and a maximization of pleasure.
+
+Setting forth this determination and acting in line with it, this quality of heedfullness may eventually fall away as one eventually retreats into pleasure, and thus the underlying tendencies take over. But eventually these conditions fall away and one arrives at a critical state which arouses this intelligence back into play.
+
+But with further insight, that intelligence would see that it is not this fivefold displeasure that needs to be avoided, but rather the generation of negative emotional states. For in its absence even fivefold displeasure would be tolerated without distress. And so that being operates along a new paradigm, seeking positive mental states through the maintained satisfaction of a decomplicated system of constraints by way of the reduction of thirst which underlies the negative emotional states.
+
+As the being further refines this paradigm, it may then realize the supremacy of the total cessation of thirst which underlies all preference.
+*** Transforming Unresolvable Insecurities Into Resolvable Desires
+:PROPERTIES:
+:heading: 2
+:END:
+There are instances where an insecurity dependent on some condition cannot be resolved the the level of those conditions due to impossible constraints. In this case, it may be possible to dissove the insecurity be inverting it into a resolvable desire, where a normally inferior state is taken up to be desirable, and then accordingly resolved due to its feasibiliy.
+*** The Actions and Decisions of High Functioning Agents
+:PROPERTIES:
+:heading: 2
+:END:
+An agent with desire would act and decide rooted in it. Agents of low intelligence act instinctually in accordance with current desires, not considering the long term consequences of those actions. But highly intelligent agents act with consideration to the long term, and are willing to bear incongruencies in the short term for superior outcomes in the long term. Both kinds of agents are rooted in the same nature of impulse, just that one is capable of fulfilling those impulses to a superior degree. That agent does not act nearly as counterproductively as the former, which frequently acts in a way which although may attenuate its impulse in the short term, would only lead to a proliferation of disresolution in the long run.
+
+Now, an agent of supreme intelligence would recognize desire itself as a drawback, since all desires have the fundamental drawback of constraint, and knowing that whatever is constrained is subject to fail when conditions change, and then see the complete absence of desire to be the highest state, with states of low desire and high satisfaction in gradation below it to be proprotionately yet also infinitely inferior. Thus, they would act in a way that keeps them as close to this ideal state indefinitely.
+
+But an agent of supreme attainment would put an end to desire completely and permanantly: nirvana.
+
+So, what is the fundamental problem of existence? All shades of desire, because the mental phenomenon of regarding a thing as a problem is rooted in desire, and its attenuation is the solution to "problems", with its cessation being the ultimate solution. Its resolution is the answer to life, the universe, and everything, its question being the expression of desire.
+
+So what ought one do? They ought not do anything in particular; rather, we should ask to what extent an induvidual intelligently with respect to their desires, the wise extinguishing it like a flame.
+
+Desire is ultimately reflexive; when yoked with intelligence it desires its own reduction, and with the development of intelligence one approaches closer and closer to that goal. A sort of natural sublimation beyond a threshold of development which would innevitably lead to a lofty equilibrium if not a transcendence beyond definition. Samsara divided by zero, a resonance among chaos.
+
+So when you wonder, what should I be doing now, and why? Don't ask that. Rather, wonder whether or not you will act intelligently, knowing the consequences and aware of one's preference among alternatives. That's all there is.
+
+So what will I prefer? I prefer not to take up displeasure, I prefer to take up pleasure. So as long as I am bound by uptake, I wish to reliably take up what is pleasant, and whenever I encounter displeasure, I prefer not to take it up. I will prefer to bear the lighter of the two burdens, and hopfully overcome the tendency for uptake alltogether.
+*** Romance is Fundamentally Flawed
+:PROPERTIES:
+:heading: 2
+:END:
+Its a messy domain that is rife with drawbacks, rooted in selfish acquisition, greed, and jealousy. An intelligent one would seek to transcent it entirely, relying on a thin paradigm of free and unconditional companionship in the meanime to keep it in check. Perhaps this is the lifestyle of the devas. And thus, one must transcend a substantial portion of their humanity in order to achieve this lofty compromise. It may hurt, but it would be well worth it to ascend to that level, never to return.
+
+And why is it flawed? Because it is brittle and vacant. One wishes to possess what cannot be possessed, constrain the free will of another being! It never works. Thus, the free love of string free companionship is the best of this domain. Pure functions, atomic transations, state free updates, modularity.
+*** Persisting Mental Paradigms Throughout Existences
+:PROPERTIES:
+:heading: 2
+:END:
+As one accumulates various views and strategies for dealing with existence, it is important to ensure that these developments are not lost at death. How will these things which a being might gain be persisted indefinitely?
+*** The Precondition of Preference
+:PROPERTIES:
+:heading: 2
+:END:
+When one may ask what is superior, when one chooses among a set of options based on which is most favorable, that is based on the underlying tendency of desire. Thus, this question of superiority is only relevant only insofar as preference remains.
+*** Transmortal Personal Computing
+:PROPERTIES:
+:heading: 2
+:END:
+Computers are only useful to the mind insofar as there is a human body operate it. But as it is likely that this link will be irreversibly modified after its death, we need a new kind of computer that is in access of the mind after death, in whatever kind of body it may occupy thereafter.
+*** A Phenomenology of Existence
+:PROPERTIES:
+:heading: 2
+:END:
+Where existence is that subjective cognition of "I-ness", the following is observed:
+
+When cognition occurs, its object is perceived as pleasant, unpleasant, or neutral. When pleasure is taken up, one feels pleasant. When displeasure is taken up, one feels unpleasant.
+
+When a displeasure is taken up, one might cognize a movement away from the displeasure and towards an escape in the uptake of pleasure. This active chase is typically cognized as pleasant, thus establishing the "warp drive" of existence.
+
+With the evasion of displeasure and the aquisition of pleasure, one feels good. But notice here the linchpin of uptake: if uptake were to cease then so would feeling good or bad. Not feeling good or bad, one does not seek. Not seeking, there is no personal existence, for existence depends on the uptake of feeling (including the uptake of neutral feeling). Not personally existing, there is no room for any form of suffering or distress.
+
+Therefore, for one who wishes not to feel bad,
+1. Prevent uptake of displeasure
+2. Prevent the perception of displeasure
+3. Override the uptake of displeasure with the uptake of pleasure by maximizing the perception of pleasure
+*** The Aim of All Intelligent Activity
+:PROPERTIES:
+:heading: 2
+:END:
+Every rational human endeavor is aimed at avoiding feeling bad. From survival to self-actualisation, all of it implicitly seeks to avoid negative emotional states.
+*** Emotion as a Transformation of Valence
+:PROPERTIES:
+:heading: 2
+:END:
+Emotion is modeled as an aggregate transformation of discrete valence components, visualized as two coressponding 2d mosaics with each cell a gradient from red to white to green, corresponding to its valence, and its size corresponding to its degree of cognizence. The bottom mosaic represents the feelings that are initially cognized, while the upper represents what is taken up, acquired, and transformed via egoic aquisition into emotions similarly measured in valence. We will see that in an ordinary being both planes would look rather similar, but to an arahant the top plane would invariantly remain blank.
+*** The Inescapable Danger of Injury
+:PROPERTIES:
+:heading: 2
+:END:
+So long as one exists within a human body, they are subject to immense pain and death at a moments notice. No satisfactory solution within the paradigm of thirst could ever take place within the human body given an uncertain environment.
+*** The Rational Pursuit
+:PROPERTIES:
+:heading: 2
+:END:
+Insofar as there is preference, there is inferior and superior, and the only rational pursuit is of the superior. Either can be defined as the negation of its opposite. i.e. the avoidance of displeasure or the acquisition of pleasure.
+
+Whatever is subject to attraction is superior, whatever is subject to aversion is inferior. The negation of the inferior is the superior. And though paradoxical, the transcendence of preference is the highest of the superior. nibbAnaM paramaM sukhaM.
+*** Semantic AI Search for Dhamma
+:PROPERTIES:
+:heading: 2
+:END:
+Properly tag every sutta so that it can be effectively searched using a hybrid of semantic search with fine grained AI search on results.
+** Dukkha as the Proliferation of Displeasure
+:PROPERTIES:
+:heading: 2
+:collapsed: true
+:END:
+*** Could dukkha be defined as the proliferation of displeasure via formations?
+*** Three types of dukkha
+:PROPERTIES:
+:collapsed: true
+:END:
+**** dukkhadukkha
+:PROPERTIES:
+:collapsed: true
+:END:
+***** Dukkha of pain
+**** dukkhaviparinama
+:PROPERTIES:
+:collapsed: true
+:END:
+***** Dukkha of change
+**** dukkhasankhata
+:PROPERTIES:
+:collapsed: true
+:END:
+***** Dukkha of conditions
+*** Ven. Sariputta states that pleasure becomes painful when it changes
+:PROPERTIES:
+:collapsed: true
+:END:
+**** This ties into dukkhaviparinama
+** Marker Relevancy System
+:PROPERTIES:
+:heading: 2
+:collapsed: true
+:END:
+*** A ranking system like Reddit for surfacing markers that are the most useful, certain, and relevant.
+** Skills Can be Arranged
+:PROPERTIES:
+:heading: 2
+:END:
+*** Humans typically acquire skills through training.
+*** Some humans are born with talents.
+*** In any case, these skills are simply emergent of certain causes and conditions.
+*** Innate abilities shared by all humans can be inferred to be born primarily of the body.
+*** So, whatever skills one might wish for in a future body, they can probably arrange for them without having to train.

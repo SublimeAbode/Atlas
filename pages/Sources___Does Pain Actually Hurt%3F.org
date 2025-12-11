@@ -1,0 +1,26 @@
+* {{video https://www.youtube.com/watch?v=hax2be-DlhY}}
+* Summary
+:PROPERTIES:
+:heading: 2
+:author: [[Authors/AI]] Gemini 2.5 Flash 
+:END:
+** The YouTube video explores the complex and often paradoxical nature of pain, moving beyond the simplistic "bell-ringer" theory of Rene Descartes. It highlights several key aspects of pain:
+** **Subjectivity and Anomalies:** The video uses examples like John Mitson cutting off his hand without feeling pain and the speaker's lingering pain from a small match to illustrate that pain is not always a direct response to injury. It also mentions phantom pain and the fact that what is painful to one person can be pleasurable to another.
+** **Evolutionary Purpose:** Pain is presented as humanity's oldest feeling, predating love, and crucial for survival by teaching us what to avoid. Simple organisms don't feel pain as they lack modifiable behavior, while complex animals like mammals need it for survival. Childbirth pain is discussed as an evolutionary incentive to keep labor short, with historical examples of practices designed to increase this pain.
+** **Cognitive and Social Dimensions:** As human cognition evolved, so did the complexity of our pain, encompassing not just physical sensations but also the pain of loss, loneliness, and mental health issues like depression. Managing and avoiding pain drives many physical and social decisions.
+** **Historical Approaches to Pain Management:**
+    *   Early interventions included rudimentary methods for anesthesia (like blunt force or drugs with unknown effects) and the development of nitrous oxide, ether, and cocaine derivatives (like novocaine).
+    *   Laudanum, morphine, and aspirin represent other historical pain relievers.
+    *   Mid-20th-century approaches were often extreme, ranging from "don't give a damn pills" that dulled personalities to lobotomies, which aimed to make patients indifferent to their pain.
+** **The Gate Control Theory:** In 1965, Ronald Melzack and Patrick Wall introduced the gate control theory, arguing that pain perception is modified by past experiences, expectations, and culture, moving beyond the idea of pain as a simple, fixed response.
+** **Pain as a Political and Legal Issue:** Post-WWII, chronic pain became a widespread societal issue, leading to questions about who deserves support and how pain should be defined. The 1963 Supreme Court case *Paige v. Celebrezze* significantly shifted the legal understanding of pain, giving subjective patient experience equal weight to objective medical findings.
+** **Ongoing Dilemmas:** The video concludes by emphasizing that despite scientific advancements, fundamental questions about pain remain: the role of pain in childbirth, the balance between aiding suffering and fostering resilience, and the overall importance of pain to the human experience. It suggests that while we can now relieve pain with medication, we are still grappling with its meaning and how much suffering we are meant to endure.
+* Discussion
+:PROPERTIES:
+:heading: 2
+:author: [[Authors/AI]] Grok Expert 
+:END:
+** Yes, the video (and its summary) completely ignores the contemplative traditions—especially Theravāda Buddhism—where the transcendence of pain is not theoretical but systematically cultivated and repeatedly verified in direct experience.
+** In the fourth jhāna, gross bodily pleasantness and pain both vanish entirely. What remains is neither-painful-nor-pleasant feeling (adukkham-asukha vedanā) accompanied by perfect equanimity and one-pointedness. Countless meditators, ancient and modern, report that even severe physical pain (from injury, illness, sitting posture, etc.) simply ceases to arise while absorbed in this state. The body can be on fire and you literally do not feel it.
+** Regarding arahants: they still register physical sensations (a (a hot poker still feels hot, a broken bone still registers as tissue damage), but these sensations no longer appear as “painful” or “pleasant” in the affective, motivational sense. The second arrow (mental suffering) is impossible for them. The vedanās arise and pass without leaving a trace of “in here.” So in the most radical sense they do not “feel feeling” the way ordinary beings do; there is contact and cognition, but no hedonic sting, no push/pull, no “this is happening to me.” The Buddha himself, while enduring severe back pain in old age, would enter the fourth jhāna or higher to make the pain disappear, then emerge and note that the pain returned—proving the phenomenon is repeatable and not merely a stoic trick.
+** The Western discussion the video presents (Descartes → gate control → opioids → legal recognition of subjective pain) is still operating at a very coarse level compared to what the precision maps of early Buddhism. The jhānas and the arahant’s liberation show that pain is not merely modulated or dulled—it can be switched off completely, or rendered utterly irrelevant even when the nerves are screaming.

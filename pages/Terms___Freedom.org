@@ -1,0 +1,17 @@
+* The highest form of [[Terms/Happiness][happiness]]: the complete and permanant cessation of [[Terms/Stress][stress]].
+* [[https://suttacentral.net/dhp197-208/pli/ms?lang=en&layout=sidebyside&reference=main&notes=asterisk&highlight=false&script=latin#vns202][Dhp 202:4]] 
+#+BEGIN_QUOTE
+nibbānaṁ paramaṁ sukhaṁ
+Nirvana is the highest happiness.
+#+END_QUOTE
+* [[https://suttacentral.net/sn36.6/en/sujato?lang=en][SN 36.6 Sallasutta]]
+
+#+BEGIN_QUOTE
+Mendicants, an unlearned ordinary person feels pleasant, painful, and neutral feelings. A learned noble disciple also feels pleasant, painful, and neutral feelings. What, then, is the difference between a learned noble disciple and an ordinary unlearned person?
+
+When an *unlearned ordinary person* experiences painful physical feelings they sorrow and wail and lament, beating their breast and falling into confusion.
+They experience *two feelings*: physical and mental.
+
+When a *learned noble disciple* experiences painful physical feelings they don’t sorrow or wail or lament, beating their breast and falling into confusion. 
+They experience *one feeling*: physical, not mental.
+#+END_QUOTE

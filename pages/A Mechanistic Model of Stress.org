@@ -1,0 +1,40 @@
+* This page describes a provisional mechanistic model of [[Terms/Stress][stress]] for use as a guiding reference during the initial stages of research.
+* Involvement Tree
+:PROPERTIES:
+:heading: 2
+:END:
+** In the following tree, each parent necessarily involves its children.
+** Stress
+*** [[Terms/Involvement]]
+**** [[Terms/Thirst]]
+:PROPERTIES:
+:collapsed: true
+:END:
+***** ?
+**** [[Terms/Feeling]]
+*** [[Terms/Displeasure]]
+**** [[Terms/Perception]]
+:PROPERTIES:
+:collapsed: true
+:END:
+***** [[Terms/Conditioning]]
+**** [[Terms/Sensation]]
+:PROPERTIES:
+:collapsed: true
+:END:
+***** [[Terms/Contact]]
+****** [[Terms/Stimuli]]
+******* External world
+****** [[Terms/Sense base]]
+******* Sensory organs
+****** [[Terms/Consciousness]]
+******* Brain
+******* Mind
+* Any of the following factors reduced in isolation will result in a reduction of stress:
+** Craving
+** Binding
+** Displeasure
+** Contact to be experienced as unpleasant
+*** Stimuli
+*** Sensitivity
+*** Consciousness

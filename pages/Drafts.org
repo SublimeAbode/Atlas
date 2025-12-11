@@ -1,0 +1,5 @@
+* {{embed [[Research Strategy]]}}
+* {{query (page-tags [[draft]])}}
+:PROPERTIES:
+:query-properties: [:page :updated-at]
+:END:

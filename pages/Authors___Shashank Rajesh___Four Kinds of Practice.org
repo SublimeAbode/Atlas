@@ -1,0 +1,20 @@
+* The Buddha gives four kinds of practice in [[https://suttacentral.net/mn46][MN 46 Mahadhammasamadanasutta]]:
+:PROPERTIES:
+:title: Authors/Shashank Rajesh/Four Kinds of Practice
+:END:
+
+#+begin_quote
+/yebhuyyena, bhikkhave, sattā evaṅkāmā evaṁchandā evaṁadhippāyā: ‘aho vata aniṭṭhā akantā amanāpā dhammā parihāyeyyuṁ, iṭṭhā kantā manāpā dhammā abhivaḍḍheyyun’ti./
+
+Mendicants, sentient beings typically have the wish, desire, and hope: ‘Oh, if only unlikable, undesirable, and disagreeable things would decrease, and likable, desirable, and agreeable things would increase!’ (Sujato)
+#+end_quote 
+
+#+begin_quote
+/Cattārimāni, bhikkhave, dhammasamādānāni. Katamāni cattāri? Atthi, bhikkhave, dhammasamādānaṁ paccuppannadukkhañceva āyatiñca dukkhavipākaṁ; atthi, bhikkhave, dhammasamādānaṁ paccuppannasukhaṁ āyatiṁ dukkhavipākaṁ; atthi, bhikkhave, dhammasamādānaṁ paccuppannadukkhaṁ āyatiṁ sukhavipākaṁ; atthi, bhikkhave, dhammasamādānaṁ paccuppannasukhañceva āyatiñca sukhavipākaṁ./
+
+Mendicants, there are these four ways of taking up practices. What four? There is a way of taking up practices that is painful now and results in future pain. There is a way of taking up practices that is pleasant now but results in future pain. There is a way of taking up practices that is painful now but results in future pleasure. There is a way of taking up practices that is pleasant now and results in future pleasure. (Sujato)
+#+end_quote
+** For the ordinary being desiring the superior:
+| Feeling | Pleasant Later | Unpleasant Later |
+| Pleasant Now   | Wise | Ignorant |
+|  Unpleasant Now | Wise | Ignorant |

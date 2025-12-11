@@ -10,12 +10,12 @@
  ;; Available options:
  ;; - :now for NOW/LATER style (default)
  ;; - :todo for TODO/DOING style
- :preferred-workflow :now
+ :preferred-workflow :todo
 
  ;; Exclude directories/files.
  ;; Example usage:
  ;; :hidden ["/archived" "/test.md" "../assets/archived"]
- :hidden []
+ :hidden ["/README.md /CONTRIBUTING.md"]
 
  ;; Define the default journal page template.
  ;; Enter the template name between the quotes.
@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["Contents"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -421,4 +421,6 @@
  :file/name-format :triple-lowbar
  :feature/enable-journals? false
  :default-home {:page "Project Empyrean"}
- :publishing/all-pages-public? true}
+ :publishing/all-pages-public? true
+ :preferred-format :org
+ :ui/show-brackets? false

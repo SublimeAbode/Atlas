@@ -1,5 +1,12 @@
 # macOS
 .DS_Store
 
-# Backups
+# Logseq
 logseq/bak
+logseq/.recycle
+
+# Roo Code
+.roo
+
+# Repomix
+repomix-output.*

@@ -1,0 +1,2 @@
+* Time is a primary constraint.
+* [[Authors/Shashank Rajesh/Opportunity Cost]]

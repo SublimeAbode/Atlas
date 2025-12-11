@@ -1,0 +1,4 @@
+* Stress beyond a threshold
+:PROPERTIES:
+:id: 690f923a-fa02-4083-95b9-1b250db4490f
+:END:

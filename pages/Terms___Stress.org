@@ -1,0 +1,48 @@
+#+author: [[Authors/Shashank Rajesh]]
+
+* The result of [[Terms/Involvement][personal involvement]] with [[Terms/Displeasure]]
+* Three grades (descending)
+** Suffering
+** Languishing
+** Happiness
+* Examples
+** Suffering
+*** Anxiety
+*** Sadness
+*** Grief
+*** Anger
+*** Fear
+*** Guilt
+*** Shame
+*** Envy
+*** Jealousy
+*** Resentment
+*** Hatred
+*** Despair
+*** Terror
+*** Panic
+*** Agony
+*** Anguish
+** Languishing
+*** Discomfort
+*** Unease
+*** Irritation
+*** Annoyance
+*** Frustration
+*** Disappointment
+*** Worry
+** Happiness
+*** #+BEGIN_NOTE
+/Yes, even happiness as it is typically understood involves some amount of stress via the process of , however subtle and negligible. It is only in such states as nibbana that stress ceases entirely./
+#+END_NOTE
+*** Contentment
+*** Satisfaction
+*** Cheerfulness
+*** Joy
+*** Excitement
+*** Elation
+*** Rapture
+*** Bliss
+*** Equanimity
+* [[draws/2025-11-26-14-09-52.excalidraw]]
+* TODO Map experiences in terms of stress over time
